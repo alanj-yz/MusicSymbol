@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "MusicSymbol",
     platforms: [
-        .iOS(.v14),
+        .iOS(.v13),
         .watchOS(.v7),
         .tvOS(.v14),
         .macOS(.v11),
